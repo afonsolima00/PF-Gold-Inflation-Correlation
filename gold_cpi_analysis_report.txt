@@ -1,0 +1,12 @@
+
+### Gold Price Reaction to CPI Announcements (Last 12 Months)
+- **Period**: 2024-02-25 to 2025-02-24
+- **Average Price Change**: -1.62
+- **Average Volatility**: 5.01
+- **Average Percentage Change**: -0.71%
+- **CPI vs Gold Price Correlation**: 0.23
+- **Trend**: Gold prices have a 0.23 correlation with CPI values. No strong relationship between CPI values and gold price movements.
+- **Trade Idea**: No clear trading strategy based on CPI values and gold price movements.
+
+### Insights
+This analysis examines gold price (GLD) reactions to CPI announcements, incorporating actual CPI values. Visualizations show price movements and CPI correlations, offering insights into inflation-driven trends.
