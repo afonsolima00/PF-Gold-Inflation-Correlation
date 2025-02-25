@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 import matplotlib.pyplot as plt
 
 # Step 1: Gather Gold Price Data (Last 12 Months)
-API_KEY = "8BJ63QT5NGP13RR8"  # Replace with your Alpha Vantage API key
+API_KEY = "INSERT_YOUR_API_KEY"  # Replace with your Alpha Vantage API key
 url = f"https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=GLD&apikey={API_KEY}&outputsize=full"
 response = requests.get(url)
 data = response.json()
